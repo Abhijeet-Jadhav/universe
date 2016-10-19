@@ -1,0 +1,20 @@
+{
+ "packagingVersion": "3.0",
+ "name": "pravega",
+ "version": "1.0.0",
+ "scm": "https://github.com/emccode/pravega",
+ "maintainer": "Abhijeet.Jadhav@em.com",
+ "description": "Pravega",
+ "framework": false,
+ "tags": ["mesosphere", "service", "pravega"],
+ "licenses": [
+   {
+     "name": "BSD",
+     "url": "http://www.apache.org/licenses/"
+   }
+ ],
+ "website": "https://github.com/emccode/pravega",
+ "postInstallNotes": "Pravega installed!",
+ "preInstallNotes": "Read this message before installing please",
+ "postUninstallNotes": "Thank you for using Pravega"
+}

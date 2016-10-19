@@ -1,0 +1,13 @@
+{
+ "id": "pravega",
+ "instances": 1,
+ "cpus": 0.4,
+ "mem": 128,
+ "container": {
+   "type": "DOCKER",
+   "docker": {
+     "image": "{{resource.assets.container.docker.ce02ae4475dc}}",
+     "network": "HOST"
+   }
+ }
+}
