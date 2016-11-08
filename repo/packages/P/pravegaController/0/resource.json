@@ -10,7 +10,7 @@
  "assets": {
    "container": {
      "docker": {
-       "83aae176d0e0": "pravega4"
+       "8c7eb5023fb5": "abhijeet78/pravega:controller"
      }
    }
  }

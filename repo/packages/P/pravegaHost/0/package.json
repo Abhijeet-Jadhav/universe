@@ -1,0 +1,20 @@
+{
+ "packagingVersion": "3.0",
+ "name": "pravega_host",
+ "version": "1.0.0",
+ "scm": "https://github.com/emccode/pravega",
+ "maintainer": "Abhijeet.Jadhav@emc.com",
+ "description": "Pravega_Host Package",
+ "framework": false,
+ "tags": ["mesosphere", "service", "pravega_host"],
+ "licenses": [
+   {
+     "name": "BSD",
+     "url": "http://www.apache.org/licenses/"
+   }
+ ],
+ "website": "https://github.com/emccode/pravega",
+ "postInstallNotes": "Pravega Host installed!",
+ "preInstallNotes": "Read this message before installing please",
+ "postUninstallNotes": "Thank you for using Pravega Host "
+}
