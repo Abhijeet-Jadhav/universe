@@ -1,6 +1,6 @@
 {
  "packagingVersion": "3.0",
- "name": "pravega_host",
+ "name": "pravega-host",
  "version": "1.0.0",
  "scm": "https://github.com/emccode/pravega",
  "maintainer": "Abhijeet.Jadhav@emc.com",
